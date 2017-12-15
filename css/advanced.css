@@ -1,0 +1,42 @@
+.top-buffer { margin-top:20px; }
+
+#top_table {
+    border-style:outset;
+    border-color: #373737;
+    border-bottom-width: 4px;
+    border-right-width: 4px;
+}
+
+.text-justify {
+    padding-top: 2px;
+}
+
+.table-bordered th {
+    border-top-color: #a70000 !important;
+    border-top-width: 7px !important;
+    border-right-color: black !important;
+    border-left-color: black !important;
+    background-color: black;
+    color: white;
+}
+
+.table-bordered td {
+    background-color: white;
+    border-color: black !important;
+    color: black;
+}
+
+.second_line th{
+    border-color: black !important;
+    background-color: #e0e0e0;
+    color: black;
+}
+
+p, ul, ol {
+    margin-bottom: 1px !important;
+}
+td {
+    width: 50%;
+}
+
+
