@@ -1,5 +1,9 @@
 .top-buffer { margin-top:20px; }
 
+#top_img {
+    max-width: 95% !important;
+}
+
 #top_table {
     border-style:outset;
     border-color: #373737;
@@ -9,6 +13,10 @@
 
 .text-justify {
     padding-top: 2px;
+}
+
+#last_text_block {
+    margin-bottom: 10px;
 }
 
 .table-bordered th {
@@ -38,5 +46,7 @@ p, ul, ol {
 td {
     width: 50%;
 }
+
+
 
 
